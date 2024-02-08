@@ -1,0 +1,4 @@
+pytest
+ipdb
+pytest-cov
+pytest-freezegun
